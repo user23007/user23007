@@ -63,12 +63,3 @@
 <a href="https://www.instagram.com/sebas23007/"><img src="https://img.shields.io/badge/-Sebas23007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/sebastian.cano.564"><img src="https://img.shields.io/badge/-Sebastian%20Cano-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/user23007/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
